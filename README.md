@@ -1,1 +1,2 @@
-# Maya-Car-Rigging-Script
+# Maya Car Rigging Script
+Code done by Miguel Ferrer
